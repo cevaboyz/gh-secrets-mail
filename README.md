@@ -1,4 +1,4 @@
-![email-from-python](https://github.com/canovasjm/gh-secrets/workflows/email-from-python/badge.svg) ![email-from-r](https://github.com/canovasjm/gh-secrets/workflows/email-from-r/badge.svg)
+![email-from-r](https://github.com/cevaboyz/gh-secrets-mail/workflows/email-from-r/badge.svg)
 
 # gh-secrets
 
